@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\views\\home\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\views\\home\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\views\\home\\generatetimetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\views\\home\\generatetimetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\models\\subjectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\models\\subjectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\models\\timetableinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\models\\timetableinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\controllers\\dynamictimetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\controllers\\dynamictimetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|c:\\users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\models\\timetablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990EA777-734B-4418-90FB-A0A71B410814}|dynamic-timetable\\dynamic-timetable.csproj|solutionrelative:dynamic-timetable\\models\\timetablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeTableInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Models\\TimeTableInputModel.cs",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Models\\TimeTableInputModel.cs",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Models\\TimeTableInputModel.cs",
+              "RelativeToolTip": "dynamic-timetable\\Models\\TimeTableInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T05:06:41.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "dynamic-timetable\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:19:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cshtml",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Views\\Home\\Subject.cshtml",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Views\\Home\\Subject.cshtml",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Views\\Home\\Subject.cshtml*",
+              "RelativeToolTip": "dynamic-timetable\\Views\\Home\\Subject.cshtml*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T12:04:11.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubjectModel.cs",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Models\\SubjectModel.cs",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Models\\SubjectModel.cs",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Models\\SubjectModel.cs",
+              "RelativeToolTip": "dynamic-timetable\\Models\\SubjectModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:56:27.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerateTimeTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Views\\Home\\GenerateTimeTable.cshtml",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Views\\Home\\GenerateTimeTable.cshtml",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Views\\Home\\GenerateTimeTable.cshtml",
+              "RelativeToolTip": "dynamic-timetable\\Views\\Home\\GenerateTimeTable.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T12:05:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dynamic-timetable\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T12:01:19.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DynamicTimeTableController.cs",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Controllers\\DynamicTimeTableController.cs",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Controllers\\DynamicTimeTableController.cs",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Controllers\\DynamicTimeTableController.cs",
+              "RelativeToolTip": "dynamic-timetable\\Controllers\\DynamicTimeTableController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwD8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:59:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimeTableModel.cs",
+              "DocumentMoniker": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Models\\TimeTableModel.cs",
+              "RelativeDocumentMoniker": "dynamic-timetable\\Models\\TimeTableModel.cs",
+              "ToolTip": "C:\\Users\\payal parmer\\source\\repos\\dynamic-timetable\\dynamic-timetable\\Models\\TimeTableModel.cs",
+              "RelativeToolTip": "dynamic-timetable\\Models\\TimeTableModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:57:20.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

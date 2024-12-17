@@ -1,0 +1,65 @@
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\appsettings.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.staticwebassets.runtime.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.staticwebassets.endpoints.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.exe
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.deps.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.runtimeconfig.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.dll
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.pdb
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.AssemblyInfoInputs.cache
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.AssemblyInfo.cs
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.csproj.CoreCompileInputs.cache
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.RazorAssemblyInfo.cache
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.RazorAssemblyInfo.cs
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\scopedcss\bundle\dynamic-timetable.styles.css
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\scopedcss\projectbundle\dynamic-timetable.bundle.scp.css
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.dynamic-timetable.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.dynamic-timetable.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.build.dynamic-timetable.props
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.dynamic-timetable.props
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.dynamic-timetable.props
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.dll
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\refint\dynamic-timetable.dll
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.pdb
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.genruntimeconfig.cache
+C:\Users\payal parmer\source\repos\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\ref\dynamic-timetable.dll
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.staticwebassets.runtime.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.exe
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.deps.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.runtimeconfig.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.dll
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\bin\Debug\net6.0\dynamic-timetable.pdb
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.AssemblyInfo.cs
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.dynamic-timetable.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.build.dynamic-timetable.props
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.dynamic-timetable.props
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.dynamic-timetable.props
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\scopedcss\bundle\dynamic-timetable.styles.css
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\scopedcss\projectbundle\dynamic-timetable.bundle.scp.css
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.dll
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\refint\dynamic-timetable.dll
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.pdb
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\dynamic-timetable.genruntimeconfig.cache
+C:\Users\admin\Downloads\dotnet practical-20241217T153822Z-001\dotnet practical\dynamic-timetable\dynamic-timetable\obj\Debug\net6.0\ref\dynamic-timetable.dll

@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List< dynamic_timetable.Models.SubjectModel>
+
+<form asp-action="GenerateTimeTable" method="post">
+    @if (ViewData["ErrorMessage"] != null)
+{
+    <div style="color: red; text-align: center; margin-bottom: 20px;">
+        <p>@ViewData["ErrorMessage"]</p>
+        <form asp-action="Subject" method="get">
+            <button type="submit" class="btn btn-danger">Go Back to Subject Input</button>
+        </form>
+    </div>
+}
+
+    <table border="1" cellpadding="5" cellspacing="0" style="width: 100%; text-align: left;">
+        <thead>
+            <tr>
+                <th>Subject Name</th>
+                <th>Hours</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <input asp-for="@Model[i].SubjectName" class="form-control" placeholder="Enter Subject Name" />
+                    </td>
+                    <td>
+                        <input asp-for="@Model[i].Hours" class="form-control" placeholder="Enter Hours" type="number" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+    <button type="submit" class="btn btn-primary">Generate Timetable</button>
+</form>

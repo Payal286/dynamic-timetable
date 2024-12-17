@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dynamic-timetable.props" />
+</Project>

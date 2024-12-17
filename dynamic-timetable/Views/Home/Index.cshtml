@@ -1,0 +1,66 @@
+﻿@* @{ *@
+@*     ViewData["Title"] = "Home Page"; *@
+@* } *@
+
+@* <div class="text-center"> *@
+@*     <h1 class="display-4">Welcome</h1> *@
+@*     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
+@* </div> *@
+
+@model dynamic_timetable.Models.TimeTableInputModel
+
+    <form asp-action="Subject" method="post">
+        <table border="1" cellpadding="5" cellspacing="0" style="width: 50%; margin: auto; border-collapse: collapse; font-family: Arial, sans-serif;">
+            <!-- Number of Working Days -->
+            <tr>
+                <td style="text-align: right; font-weight: bold;">Number of Working Days:</td>
+                <td>
+                    <input asp-for="WorkingDays" id="workingDays" class="form-control" oninput="calculateTotalHours()" />
+                    <span asp-validation-for="WorkingDays" style="color: red;"></span>
+                </td>
+            </tr>
+
+            <!-- Subjects Per Day -->
+            <tr>
+                <td style="text-align: right; font-weight: bold;">Subjects Per Day:</td>
+                <td>
+                    <input asp-for="SubjectsPerDay" id="subjectsPerDay" class="form-control" oninput="calculateTotalHours()" />
+                    <span asp-validation-for="SubjectsPerDay" style="color: red;"></span>
+                </td>
+            </tr>
+
+            <!-- Total Subjects -->
+            <tr>
+                <td style="text-align: right; font-weight: bold;">Total Subjects:</td>
+                <td>
+                    <input asp-for="TotalSubjects" id="totalSubjects" class="form-control" />
+                    <span asp-validation-for="TotalSubjects" style="color: red;"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td style="text-align: right; font-weight: bold;">Total Hours for Week:</td>
+                <td>
+                    <input id="totalHours" class="form-control" readonly />
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <script>
+        function calculateTotalHours() {
+            var workingDays = parseInt(document.getElementById("workingDays").value) || 0;
+            var subjectsPerDay = parseInt(document.getElementById("subjectsPerDay").value) || 0;
+
+            var totalHours = workingDays * subjectsPerDay;
+
+            document.getElementById("totalHours").value = totalHours;
+        }
+    </script>
+
